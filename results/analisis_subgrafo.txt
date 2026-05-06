@@ -1,0 +1,5 @@
+--- Reporte Modulo C: Analisis del Subgrafo ---
+Nodos en el subgrafo: 225
+Aristas en el subgrafo: 228
+Costo total del MST (Kruskal): 927
+Contiene ciclos (DFS): Si
