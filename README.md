@@ -10,7 +10,6 @@ Este repositorio README explica la implementacion en C++ de procesamiento de gra
 
 Para compilar este proyecto, primero hay que asegurarse de tener instalado el compilador `g++`. Se usa el siguiente comando desde la terminal apuntando a la carpeta principal:
 
-```bash
 g++ -std=c++17 -O2 -o eda_pf src/main.cpp src/graph.cpp src/loader.cpp src/structural.cpp src/dijkstra.cpp src/bfs.cpp src/subgraph.cpp
 
 #Ejecucion por Modulos
