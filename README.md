@@ -12,7 +12,7 @@ Para compilar este proyecto, primero hay que asegurarse de tener instalado el co
 
 g++ -std=c++17 -O2 -o eda_pf src/main.cpp src/graph.cpp src/loader.cpp src/structural.cpp src/dijkstra.cpp src/bfs.cpp src/subgraph.cpp
 
-#Ejecucion por Modulos
+# Ejecucion por Modulos
 
 El programa cuenta con tres modulos principales A, B y C. Todos los resultados generados seran guardados automaticamente en la carpeta de results/.
 
